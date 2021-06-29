@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1039808200505",
+    "firebase_url": "https://alnajjarchattingfirebase.firebaseio.com",
+    "project_id": "alnajjarchattingfirebase",
+    "storage_bucket": "alnajjarchattingfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039808200505:android:d2c5758e70a402c6",
+        "android_client_info": {
+          "package_name": "com.alnajjarchattingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039808200505-a8h8tsth1kdijjarh95os5hg0mlto64s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alnajjarchattingfirebase",
+            "certificate_hash": "6fca58dd9e347d8d391aa28d987601881816fb54"
+          }
+        },
+        {
+          "client_id": "1039808200505-b9s4v9o4i2dv60dnnmni6652rtg3qm42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLxaa7UTP044By3rtEowqhguCcz74ghBQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039808200505-b9s4v9o4i2dv60dnnmni6652rtg3qm42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
